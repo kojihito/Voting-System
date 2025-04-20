@@ -36,9 +36,5 @@ can also view an election’s result.
 - [x]  12. Front End Design for all Functions (HTML, Bootstrap)
 - [x]  13. Implementation based on the submitted Requirements & Design
 
-### Project Demo:
-
-https://github.com/mahmoudhaney/Voting_System_PHP/assets/83553963/1f99803c-0302-46b3-b589-4de653d21560
-
 
 
